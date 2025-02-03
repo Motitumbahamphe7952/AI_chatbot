@@ -67,7 +67,7 @@ const Chatbot = () => {
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
     try {
-      const response = await axios.post("https://ai-chatbot-backend-lknotplyk-nikhil-limbus-projects.vercel.app/chat", {
+      const response = await axios.post("https://ai-chatbot-backend-gamma.vercel.app/chat", {
         message: input,
       });
 
