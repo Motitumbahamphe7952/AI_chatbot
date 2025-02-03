@@ -121,6 +121,16 @@ We love contributions! 🚀 If you’d like to make improvements:
 4.  Push to GitHub (`git push origin feature-new-stuff`)
 5.  Submit a Pull Request 🎉
 
+
+## 🌟 Collaborators
+The following users have been added as collaborators to this project:
+
+📧 Email: bhusalshiva010@gmail.com
+🔍 GitHub: [aviihs](https://github.com/aviihs)
+
+📧 Email: nikhilimbu918@gmail.com
+🔍 GitHub: [nikhil](https://github.com/Motitumbahamphe7952)
+
 ## 💬 Contact
 
 If you have any questions, feel free to reach out:
@@ -131,4 +141,4 @@ If you have any questions, feel free to reach out:
 
 ## Live preview at :
 
-🟢 **Live**: [CLICK HERE.](https://chatbot-aviihs.netlify.app/)
+🟢 **Live**: [CLICK HERE.](https://ai-chatbot-frontend-roan.vercel.app/) 
