@@ -125,10 +125,10 @@ We love contributions! 🚀 If you’d like to make improvements:
 ## 🌟 Collaborators
 The following users have been added as collaborators to this project:
 
-📧 Email: bhusalshiva010@gmail.com
+📧 Email: bhusalshiva010@gmail.com  
 🔍 GitHub: [aviihs](https://github.com/aviihs)
 
-📧 Email: nikhilimbu918@gmail.com
+📧 Email: nikhilimbu918@gmail.com  
 🔍 GitHub: [nikhil](https://github.com/Motitumbahamphe7952)
 
 ## 💬 Contact
