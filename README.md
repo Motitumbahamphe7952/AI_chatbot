@@ -132,14 +132,6 @@ The following users have been added as collaborators to this project:
 📧 Email: nikhilimbu918@gmail.com  
 🔍 GitHub: [nikhil](https://github.com/Motitumbahamphe7952)
 
-## 💬 Contact
-
-If you have any questions, feel free to reach out:
-
-📧 **Email**: bhusalshiva010@gmail.com  
-🐙 **GitHub**: [aviihs](https://github.com/aviihs)  
-🚀 **Website**: [Shiva Bhusal](http://bhusalshiva.com.np)
-
 ## Live preview at :
 
 🟢 **Live**: [CLICK HERE.](https://ai-chatbot-frontend-roan.vercel.app/) 
