@@ -1,6 +1,6 @@
 # #🚀 AI Chatbot
 
-Welcome to **AI Chatbot**, a modern and responsive chatbot built using **React**, **Vite**, **Tailwind CSS**, **Express** for backend integrations, the **Gemini API**, and **Vercel** for deployment. This chatbot allows users to interact with a simple AI assistant in real-time. The project primarily runs on the frontend, but it can easily be extended with robust server-side features using **Express**. By integrating the **Gemini API**, the chatbot can provide richer data and AI capabilities. Deploying to **Vercel** ensures a streamlined, efficient live environment.
+Welcome to **AI Chatbot**, a modern and responsive chatbot built using **React**, **Vite**, **Tailwind CSS**, **Express** for backend integrations, the **Gemini API**, and **Vercel** for deployment. This chatbot allows users to interact with an AI assistant in real-time. The project primarily runs on the frontend, but it can easily be extended with robust server-side features using **Express**. By integrating the **Gemini API**, the chatbot can provide richer data and AI capabilities. Deploying to **Vercel** ensures a streamlined, efficient live environment.
 
 
 ## 🌟 Features
