@@ -5,9 +5,9 @@ import Chatbot from "./Components/Chatbot";
 const App = () => {
   return (
     <>
-    <div className="min-h-screen bg-gray-100 flex flex-col">
+    <div className="h-screen bg-gray-100 flex flex-col">
       <Navbar />
-      <div className="flex flex-grow justify-center items-center">
+      <div className="flex flex-grow justify-center items-center overflow-hidden">
         <Chatbot />
       </div>
     </div>
