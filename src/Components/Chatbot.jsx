@@ -106,7 +106,8 @@ const Chatbot = () => {
         />
         <button
           onClick={sendMessage}
-          className="bg-blue-500 text-white px-4 rounded-r text-lg hover:bg-blue-600"
+          className="bg-blue-500 text-white px-4 py-2 rounded-r text-lg hover:bg-blue-600 
+             sm:px-6 sm:py-3 md:text-xl lg:px-8 lg:py-4"
         >
           🚀
         </button>
