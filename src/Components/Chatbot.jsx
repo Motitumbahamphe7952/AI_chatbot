@@ -95,7 +95,7 @@ const Chatbot = () => {
       </div>
 
       {/* Input Field and Send Button */}
-      <div className="flex mt-4">
+      <div className="flex mt-4 items-center">
         <input
           type="text"
           className="flex-1 border rounded-l p-3 focus:outline-none"
@@ -106,7 +106,7 @@ const Chatbot = () => {
         />
         <button
           onClick={sendMessage}
-          className="bg-blue-500 text-white px-4 py-2 rounded-r text-lg hover:bg-blue-600 
+          className="bg-blue-500 text-white px-4 py-3 rounded-r text-lg hover:bg-blue-600 
              sm:px-6 sm:py-3 md:text-xl lg:px-8 lg:py-4"
         >
           🚀
