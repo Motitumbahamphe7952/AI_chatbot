@@ -1,6 +1,7 @@
 # #🚀 AI Chatbot
 
-Welcome to **AI Chatbot**, a modern and responsive chatbot built using **React**, **Vite**, and **Tailwind CSS**. This chatbot allows users to interact with a simple AI assistant in real-time. The project currently runs on the frontend, but it can be extended to support backend integrations in the future.
+Welcome to **AI Chatbot**, a modern and responsive chatbot built using **React**, **Vite**, **Tailwind CSS**, **Express** for backend integrations, the **Gemini API**, and **Vercel** for deployment. This chatbot allows users to interact with an AI assistant in real-time. The project primarily runs on the frontend, but it can easily be extended with robust server-side features using **Express**. By integrating the **Gemini API**, the chatbot can provide richer data and AI capabilities. Deploying to **Vercel** ensures a streamlined, efficient live environment.
+
 
 ## 🌟 Features
 
@@ -121,14 +122,16 @@ We love contributions! 🚀 If you’d like to make improvements:
 4.  Push to GitHub (`git push origin feature-new-stuff`)
 5.  Submit a Pull Request 🎉
 
-## 💬 Contact
 
-If you have any questions, feel free to reach out:
+## 🌟 Collaborators
+The following users have been added as collaborators to this project:
 
-📧 **Email**: bhusalshiva010@gmail.com  
-🐙 **GitHub**: [aviihs](https://github.com/aviihs)  
-🚀 **Website**: [Shiva Bhusal](http://bhusalshiva.com.np)
+📧 Email: bhusalshiva010@gmail.com  
+🔍 GitHub: [aviihs](https://github.com/aviihs)
+
+📧 Email: nikhilimbu918@gmail.com  
+🔍 GitHub: [nikhil](https://github.com/Motitumbahamphe7952)
 
 ## Live preview at :
 
-🟢 **Live**: [CLICK HERE.](https://chatbot-aviihs.netlify.app/)
+🟢 **Live**: [CLICK HERE.](https://ai-chatbot-frontend-roan.vercel.app/) 
