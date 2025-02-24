@@ -86,7 +86,7 @@ const Chatbot = () => {
   };
 
   return (
-    <div className="w-[80%] mx-auto mt-5 p-6 bg-white shadow-lg rounded-lg">
+    <div className="w-[95%] mx-auto mt-5 p-6 bg-white shadow-lg rounded-lg">
       {/* Chat Message Container */}
       <div className="h-[500px] overflow-y-auto border-b p-4">
         {messages.map((msg, index) => (
