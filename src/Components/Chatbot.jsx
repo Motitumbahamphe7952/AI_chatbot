@@ -67,7 +67,7 @@ const Chatbot = () => {
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
     try {
-      const response = await axios.post("https://ai-chatbot-frontend.motitumbahamphe.com.np/chat", {
+      const response = await axios.post("https://ai-chatbot-backend-gamma.vercel.app/chat", {
         message: input,
       });
 
