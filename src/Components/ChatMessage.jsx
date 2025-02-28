@@ -5,7 +5,7 @@ const ChatMessage = ({ text, sender }) => {
     <div className={`flex items-center mb-2 ${sender === "user" ? "justify-end" : "justify-start"}`}>
       {sender === "bot" && <span className="mr-2 text-3xl">🤖</span>}
       <div
-        className={`p-3 rounded-lg max-w-xs ${
+        className={`p-3 rounded-lg max-w-4xl ${
           sender === "user" ? "bg-blue-500 text-white" : "bg-gray-200"
         }`}
       >
