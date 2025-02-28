@@ -134,4 +134,4 @@ The following users have been added as collaborators to this project:
 
 ## Live preview at :
 
-🟢 **Live**: [CLICK HERE.](https://ai-chatbot-frontend-roan.vercel.app/) 
+🟢 **Live**: [CLICK HERE.](https://ai-chatbot-frontend.motitumbahamphe.com.np/) 
